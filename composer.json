@@ -1,0 +1,16 @@
+{
+  "name": "spryker-feature/product-labels",
+  "description": "Product Labels [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker-shop/product-label-widget": "^1.1.0",
+    "spryker-shop/product-new-page": "^1.0.1",
+    "spryker/product-label-gui": "^2.0.11",
+    "spryker/product-label-search": "^1.1.0",
+    "spryker/product-new": "^1.1.4"
+  }
+}
