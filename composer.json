@@ -10,7 +10,7 @@
     "spryker-feature/product": "^201902.0",
     "spryker-shop/product-label-widget": "^1.1.0",
     "spryker-shop/product-new-page": "^1.0.2",
-    "spryker/product-label-gui": "^2.0.11",
+    "spryker/product-label-gui": "^2.1.0",
     "spryker/product-label-search": "^1.2.1",
     "spryker/product-new": "^1.1.4"
   },
