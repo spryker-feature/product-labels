@@ -7,3 +7,11 @@ Highlight specific products in your shop. Customize the look and text of the Lab
 ```
 composer require spryker-feature/product-labels
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/product](https://github.com/spryker-feature/product)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [ProductLabelDiscountConnector ^3.0.0](https://github.com/spryker/product-label-discount-connector) (Connector)
