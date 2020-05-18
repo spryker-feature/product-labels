@@ -9,8 +9,11 @@
     "php": ">=7.2",
     "spryker-shop/product-label-widget": "^1.1.0",
     "spryker-shop/product-new-page": "^1.0.2",
-    "spryker/product-label-gui": "^2.1.0",
-    "spryker/product-label-search": "^1.2.1",
+    "spryker/product-label": "^3.0.0",
+    "spryker/product-label-data-import": "^0.1.0",
+    "spryker/product-label-gui": "^3.0.0",
+    "spryker/product-label-search": "^2.0.0",
+    "spryker/product-label-storage": "^2.0.0",
     "spryker/product-new": "^1.1.4"
   },
   "extra": {
