@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "spryker-shop/product-label-widget": "^1.5.0",
     "spryker-shop/product-new-page": "^1.1.0",
     "spryker/product-label": "^3.1.0",
@@ -18,7 +18,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202009.x-dev"
+      "dev-master": "202107.x-dev"
     }
   },
   "suggest": {
