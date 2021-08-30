@@ -1,27 +1,27 @@
 {
-  "name": "spryker-feature/product-labels",
-  "description": "Product Labels [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/product-label-widget": "^1.5.0",
-    "spryker-shop/product-new-page": "^1.1.0",
-    "spryker/product-label": "^3.1.0",
-    "spryker/product-label-data-import": "^0.1.0",
-    "spryker/product-label-gui": "^3.1.0",
-    "spryker/product-label-search": "^2.1.0",
-    "spryker/product-label-storage": "^2.2.0",
-    "spryker/product-new": "^1.3.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/product-labels",
+    "description": "Product Labels [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/product-label-widget": "^1.5.0",
+        "spryker-shop/product-new-page": "^1.1.0",
+        "spryker/product-label": "^3.2.0",
+        "spryker/product-label-data-import": "^0.1.0",
+        "spryker/product-label-gui": "^3.1.0",
+        "spryker/product-label-search": "^2.1.0",
+        "spryker/product-label-storage": "^2.2.0",
+        "spryker/product-new": "^1.3.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
