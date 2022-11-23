@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/product-label-widget": "^1.6.0",
         "spryker-shop/product-new-page": "^1.2.0",
         "spryker/product-label": "^3.3.0",
