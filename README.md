@@ -16,4 +16,4 @@ composer require spryker-feature/product-labels
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductLabelDiscountConnector ^3.2.0](https://github.com/spryker/product-label-discount-connector) (Connector)
+- [ProductLabelDiscountConnector ^3.3.0](https://github.com/spryker/product-label-discount-connector) (Connector)
