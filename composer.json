@@ -11,14 +11,14 @@
         "spryker-shop/product-new-page": "^1.5.0",
         "spryker/product-label": "^3.14.0",
         "spryker/product-label-data-import": "^0.1.0",
-        "spryker/product-label-gui": "^4.1.0",
+        "spryker/product-label-gui": "^4.4.0",
         "spryker/product-label-search": "^2.7.0",
-        "spryker/product-label-storage": "^2.10.0",
+        "spryker/product-label-storage": "^2.11.0",
         "spryker/product-new": "^1.6.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202608.x-dev"
+            "dev-master": "202610.x-dev"
         }
     },
     "suggest": {
